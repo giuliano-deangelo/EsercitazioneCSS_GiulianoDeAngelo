@@ -1,0 +1,207 @@
+.viaggi {
+    background-image: linear-gradient(rgba(250, 250, 250, 0.2), rgba(250, 250, 250, 0.8)), url(https://images.everyeye.it/img-notizie/dragon-ball-z-kakarot-video-porta-west-city-cittA-capsule-corp-v3-418918.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    background-attachment: fixed;
+    margin: 0;
+}
+
+
+.vegeta{
+    background-image: linear-gradient(rgba(250, 250, 250, 0.2), rgba(250, 250, 250, 0.8)), url(https://gxvtronics.altervista.org/wp-content/uploads/2020/03/kai84vegeta-960x540.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    background-attachment: fixed;
+    margin: 0;
+}
+
+.contus{
+    background-image: linear-gradient(rgba(250, 250, 250, 0.2), rgba(250, 250, 250, 0.8)), url(https://i.ytimg.com/vi/aUmkrNKPF-Y/maxresdefault.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    background-attachment: fixed;
+    margin: 0;
+}
+
+
+.kaio{
+    background-image: linear-gradient(rgba(250, 250, 250, 0.2), rgba(250, 250, 250, 0.8)), url(https://pm1.aminoapps.com/6594/f107585cc115e4de7c7af3c56974b5d02c3ea87e_hq.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    background-attachment: fixed;
+    margin: 0;
+}
+
+.namecc{
+    background-image: linear-gradient(rgba(250, 250, 250, 0.2), rgba(250, 250, 250, 0.8)), url(https://images.everyeye.it/img-notizie/dragon-ball-z-fan-ricrea-riproduzione-scala-2-metri-pianeta-namecc-v3-491232.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    background-attachment: fixed;
+    margin: 0;
+}
+
+.heart{
+    background-image: linear-gradient(rgba(250, 250, 250, 0.2), rgba(250, 250, 250, 0.8)), url(https://m.media-amazon.com/images/I/61xEWnrv-oL._AC_UF1000,1000_QL80_.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    background-attachment: fixed;
+    margin: 0;
+}
+
+.kaioshin{
+    background-image: linear-gradient(rgba(250, 250, 250, 0.2), rgba(250, 250, 250, 0.8)), url(https://www.dragonball-multiverse.com/imgs/fanfic/u16/14/Eiki-kaioshins_vegetto-big.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    background-attachment: fixed;
+    margin: 0;
+}
+
+
+.logo {
+    background-image: url(https://seeklogo.com/images/C/capsule-corp-pack-logo-028E729E8F-seeklogo.com.png);
+    background-position: left;
+    background-size: contain;
+    margin-top: 4%;
+    background-repeat: no-repeat;
+    width: 14vw;
+    height: 14vw;
+
+}
+
+.testa {
+    display: flex;
+    justify-content: center;
+}
+
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 5vw;
+    margin-top: 4.3%;
+    margin-right: 10%;
+    text-align: center;
+
+}
+
+.nav_text {
+    background-color: rgba(28, 26, 180, 0.623);
+    font-size: 1.5vw;
+    font-weight: 600;
+    width: 100%;
+    height: 2.2vw;
+    text-decoration-color: none;
+    color: black;
+    position: sticky;
+    top: 1px
+}
+
+.main-menu {
+    list-style-type: none;
+    width: 90vw;
+    display: flex;
+    color: black;
+margin-left: 10vw;
+padding: 4px;
+justify-content: space-evenly;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    text-shadow: 0px 0 #000000, 0 3px #00000073, 0px 0 #000000, 0 0px #000000;
+}
+
+.card {
+display: flex;
+justify-content: space-evenly;
+font-size: 1.5vw;
+font-weight: 600;
+background-color: none;
+height: 30vh;
+width: 100%;
+margin-top: 15vh;
+}
+
+.card1 {
+background-image: url(https://2.bp.blogspot.com/-xTF6511kzQI/TvlKZx1qbbI/AAAAAAAAIGE/wZSxXHPgvhw/s1600/dbz21-19.jpg);
+display: flex;
+background-size: 100% 100%;
+background-repeat: no-repeat;
+background-color: aquamarine;
+width: 20vw;
+height: 14.5vw;
+flex-direction: column;
+}
+
+.card2 {
+    background-image: url(https://i.pinimg.com/originals/d9/ef/f4/d9eff4496a3f77d19ae88d75f5e1364e.jpg);
+    display: flex;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-color: aquamarine;
+    text-align: center;
+    width: 20vw;
+    height: 14.5vw;
+    flex-direction: column;
+}
+
+.card3 {
+    background-image: url(https://upload.wikimedia.org/wikipedia/it/3/31/Sferedrago.png);
+    display: flex;
+    flex-direction: column;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-color: aquamarine;
+    text-align: center;
+    width: 20vw;
+    height: 14.5vw;
+
+}
+
+.card1:hover {
+    background-image: url(https://qph.cf2.quoracdn.net/main-qimg-ecd92f24483642811fd13672de41e83f-lq);
+}
+
+.card2:hover {
+    background-image: url(https://i.pinimg.com/originals/09/0e/45/090e45ca04db94ea9bc24f2f54ded8fe.png);
+}
+
+.card3:hover {
+    background-image: url(https://www.cinematographe.it/wp-content/uploads/2019/08/tutti-i-desideri-realizzati-dalle-sfere-del-drago-in-dragon-ball-cinematographe-1200x628.jpg);
+}
+.testo{
+    margin-top: 295px;
+    display: flex;
+    flex: auto;
+}
+span {
+    margin-top: 5px;
+    font-size: 16px;
+    text-align: justify;
+    hyphens:auto;
+    font-weight: 400;
+    hyphens: auto;
+    padding-bottom: 600px;
+}
